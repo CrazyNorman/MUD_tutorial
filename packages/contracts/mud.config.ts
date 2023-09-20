@@ -11,7 +11,7 @@ export default mudConfig({
     },
     PlayerSystem: {
       name: "Player",
-      openAccess: false,
+      openAccess: true,
       accessList: [], // list of allowed access address to this system
     },
   },
